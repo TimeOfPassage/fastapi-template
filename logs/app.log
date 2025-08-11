@@ -1,0 +1,79 @@
+2025-08-11 13:56:18.628 INFO      8020222080 [MainThread] - logger_config.<module>:39 - 日志配置初始化完成
+2025-08-11 13:56:18.638 INFO      8020222080 [MainThread] - main.<module>:14 - xxx
+2025-08-11 13:56:18.639 INFO      8020222080 [MainThread] - events.startup:24 - 🚀 应用启动
+2025-08-11 13:56:18.639 INFO      8020222080 [MainThread] - events.init_db:9 - 初始化数据库...
+2025-08-11 13:56:18.639 INFO      8020222080 [MainThread] - events.init_db:11 - 初始化表【users】
+2025-08-11 13:56:18.641 INFO      8020222080 [MainThread] - events.init_db:15 - 测试数据库链接: True
+2025-08-11 13:56:18.641 INFO      8020222080 [MainThread] - events.init_db:18 - 数据库初始化完成
+2025-08-11 13:56:21.612 INFO      8020222080 [MainThread] - logger_config.<module>:39 - 日志配置初始化完成
+2025-08-11 13:56:21.613 INFO      8020222080 [MainThread] - main.<module>:14 - xxx
+2025-08-11 13:56:21.615 INFO      8020222080 [MainThread] - events.startup:24 - 🚀 应用启动
+2025-08-11 13:56:21.615 INFO      8020222080 [MainThread] - events.init_db:9 - 初始化数据库...
+2025-08-11 13:56:21.615 INFO      8020222080 [MainThread] - events.init_db:11 - 初始化表【users】
+2025-08-11 13:56:21.617 INFO      8020222080 [MainThread] - events.init_db:15 - 测试数据库链接: True
+2025-08-11 13:56:21.617 INFO      8020222080 [MainThread] - events.init_db:18 - 数据库初始化完成
+2025-08-11 13:56:30.960 INFO      8020222080 [MainThread] - logger_config.<module>:39 - 日志配置初始化完成
+2025-08-11 13:56:30.961 INFO      8020222080 [MainThread] - main.<module>:14 - xxx
+2025-08-11 13:56:30.963 INFO      8020222080 [MainThread] - events.startup:24 - 🚀 应用启动
+2025-08-11 13:56:30.963 INFO      8020222080 [MainThread] - events.init_db:9 - 初始化数据库...
+2025-08-11 13:56:30.963 INFO      8020222080 [MainThread] - events.init_db:11 - 初始化表【users】
+2025-08-11 13:56:30.965 INFO      8020222080 [MainThread] - events.init_db:15 - 测试数据库链接: True
+2025-08-11 13:56:30.965 INFO      8020222080 [MainThread] - events.init_db:18 - 数据库初始化完成
+2025-08-11 13:57:48.097 INFO      8020222080 [MainThread] - logger_config.<module>:39 - 日志配置初始化完成
+2025-08-11 13:57:48.098 INFO      8020222080 [MainThread] - main.<module>:12 - 初始化FastAPI应用...
+2025-08-11 13:57:48.099 INFO      8020222080 [MainThread] - main.<module>:16 - 初始化FastAPI应用完成
+2025-08-11 13:57:48.099 INFO      8020222080 [MainThread] - main.<module>:18 - 配置中间件...
+2025-08-11 13:57:48.099 INFO      8020222080 [MainThread] - main.<module>:27 - 配置中间件完成
+2025-08-11 13:57:48.099 INFO      8020222080 [MainThread] - main.<module>:29 - 注册路由...
+2025-08-11 13:57:48.099 INFO      8020222080 [MainThread] - main.<module>:31 - 注册路由完成
+2025-08-11 13:57:48.100 INFO      8020222080 [MainThread] - events.startup:24 - 🚀 应用启动
+2025-08-11 13:57:48.100 INFO      8020222080 [MainThread] - events.init_db:9 - 初始化数据库...
+2025-08-11 13:57:48.100 INFO      8020222080 [MainThread] - events.init_db:11 - 初始化表【users】
+2025-08-11 13:57:48.113 INFO      8020222080 [MainThread] - events.init_db:15 - 测试数据库链接: True
+2025-08-11 13:57:48.114 INFO      8020222080 [MainThread] - events.init_db:18 - 数据库初始化完成
+2025-08-11 13:58:02.282 INFO      8020222080 [MainThread] - main.<module>:12 - 初始化FastAPI应用...
+2025-08-11 13:58:02.283 INFO      8020222080 [MainThread] - main.<module>:16 - 初始化FastAPI应用完成
+2025-08-11 13:58:02.284 INFO      8020222080 [MainThread] - main.<module>:18 - 配置中间件...
+2025-08-11 13:58:02.284 INFO      8020222080 [MainThread] - main.<module>:27 - 配置中间件完成
+2025-08-11 13:58:02.284 INFO      8020222080 [MainThread] - main.<module>:29 - 注册路由...
+2025-08-11 13:58:02.286 INFO      8020222080 [MainThread] - main.<module>:31 - 注册路由完成
+2025-08-11 13:58:02.289 INFO      8020222080 [MainThread] - events.startup:24 - 🚀 应用启动
+2025-08-11 13:58:02.289 INFO      8020222080 [MainThread] - events.init_db:9 - 初始化数据库...
+2025-08-11 13:58:02.290 INFO      8020222080 [MainThread] - events.init_db:11 - 初始化表【users】
+2025-08-11 13:58:02.295 INFO      8020222080 [MainThread] - events.init_db:15 - 测试数据库链接: True
+2025-08-11 13:58:02.296 INFO      8020222080 [MainThread] - events.init_db:18 - 数据库初始化完成
+2025-08-11 13:58:37.059 INFO      8020222080 [MainThread] - events.shutdown:29 - 🛑 应用关闭...
+2025-08-11 13:58:38.294 INFO      8020222080 [MainThread] - main.<module>:12 - 初始化FastAPI应用...
+2025-08-11 13:58:38.294 INFO      8020222080 [MainThread] - main.<module>:16 - 初始化FastAPI应用完成
+2025-08-11 13:58:38.294 INFO      8020222080 [MainThread] - main.<module>:18 - 配置中间件...
+2025-08-11 13:58:38.294 INFO      8020222080 [MainThread] - main.<module>:27 - 配置中间件完成
+2025-08-11 13:58:38.294 INFO      8020222080 [MainThread] - main.<module>:29 - 注册路由...
+2025-08-11 13:58:38.295 INFO      8020222080 [MainThread] - main.<module>:31 - 注册路由完成
+2025-08-11 13:58:38.296 INFO      8020222080 [MainThread] - events.init_db:9 - 初始化数据库...
+2025-08-11 13:58:38.296 INFO      8020222080 [MainThread] - events.init_db:11 - 初始化表【users】
+2025-08-11 13:58:38.298 INFO      8020222080 [MainThread] - events.init_db:15 - 测试数据库链接: True
+2025-08-11 13:58:38.298 INFO      8020222080 [MainThread] - events.init_db:18 - 数据库初始化完成
+2025-08-11 13:58:38.298 INFO      8020222080 [MainThread] - events.startup:25 - 🚀 应用启动完成
+2025-08-11 13:58:49.721 INFO      8020222080 [MainThread] - main.<module>:12 - 初始化FastAPI应用...
+2025-08-11 13:58:49.722 INFO      8020222080 [MainThread] - main.<module>:16 - 初始化FastAPI应用完成
+2025-08-11 13:58:49.722 INFO      8020222080 [MainThread] - main.<module>:18 - 配置中间件...
+2025-08-11 13:58:49.722 INFO      8020222080 [MainThread] - main.<module>:27 - 配置中间件完成
+2025-08-11 13:58:49.722 INFO      8020222080 [MainThread] - main.<module>:29 - 注册路由...
+2025-08-11 13:58:49.722 INFO      8020222080 [MainThread] - main.<module>:31 - 注册路由完成
+2025-08-11 13:58:49.723 INFO      8020222080 [MainThread] - events.init_db:9 - 初始化数据库...
+2025-08-11 13:58:49.723 INFO      8020222080 [MainThread] - events.init_db:11 - 初始化表【users】
+2025-08-11 13:58:49.728 INFO      8020222080 [MainThread] - events.init_db:15 - 测试数据库链接: True
+2025-08-11 13:58:49.728 INFO      8020222080 [MainThread] - events.init_db:18 - 数据库初始化完成
+2025-08-11 13:58:49.728 INFO      8020222080 [MainThread] - events.startup:25 -  ======== 🚀 应用启动完成 ========
+2025-08-11 13:58:56.230 INFO      8020222080 [MainThread] - main.<module>:12 - 初始化FastAPI应用...
+2025-08-11 13:58:56.231 INFO      8020222080 [MainThread] - main.<module>:16 - 初始化FastAPI应用完成
+2025-08-11 13:58:56.231 INFO      8020222080 [MainThread] - main.<module>:18 - 配置中间件...
+2025-08-11 13:58:56.231 INFO      8020222080 [MainThread] - main.<module>:27 - 配置中间件完成
+2025-08-11 13:58:56.231 INFO      8020222080 [MainThread] - main.<module>:29 - 注册路由...
+2025-08-11 13:58:56.231 INFO      8020222080 [MainThread] - main.<module>:31 - 注册路由完成
+2025-08-11 13:58:56.232 INFO      8020222080 [MainThread] - events.startup:24 -  ======== 🚀 应用启动完成 ========
+2025-08-11 13:58:56.232 INFO      8020222080 [MainThread] - events.init_db:9 - 初始化数据库...
+2025-08-11 13:58:56.232 INFO      8020222080 [MainThread] - events.init_db:11 - 初始化表【users】
+2025-08-11 13:58:56.234 INFO      8020222080 [MainThread] - events.init_db:15 - 测试数据库链接: True
+2025-08-11 13:58:56.234 INFO      8020222080 [MainThread] - events.init_db:18 - 数据库初始化完成
+2025-08-11 13:58:56.234 INFO      8020222080 [MainThread] - events.startup:26 -  ======== 🚀 应用启动完成 ========
